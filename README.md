@@ -1,2 +1,2 @@
 # jenkins_practice
-Java, Hadoop, Spark project
+Python, Hadoop, Spark(Pyspark) project
